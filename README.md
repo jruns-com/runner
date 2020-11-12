@@ -1,6 +1,16 @@
 # runner
 Runner for applications wroted in many programming languages
 
+
+## inspirations
+
+https://docs.gitlab.com/runner/executors/ssh.html
+
+https://github.com/ayufan/gitlab-ci-multi-runner/blob/master/docs/executors/ssh.md
+
+## TODO
+
+
 every minute:
   
     cron.sh
